@@ -1,0 +1,1 @@
+script  one print path working directory
